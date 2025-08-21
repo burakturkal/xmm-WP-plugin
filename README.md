@@ -1,1 +1,3 @@
-console.log("Burak push smoke");
+console.log("✅ GitHub Push Extension capture & push test worked!");
+
+gulooooooooooo
