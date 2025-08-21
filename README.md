@@ -1,1 +1,1 @@
-# xmm-WP-plugin
+console.log("Burak push smoke");
